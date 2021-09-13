@@ -25,6 +25,10 @@ Papers List-Chinese Music (Specialty)
  2021 | ChMusic: A Traditional Chinese Music Dataset for Evaluation of Instrument Recognition | Instrument Recognition
  2021 | Visual exploration of latent space for traditional Chinese music | Data Visualization
  2020 | A dataset and classification model for Malay, Hindi, Tamil and Chinese music | Music Classification
+ 2020 | Joint Analysis of Mode and Playing Technique in Guqin Performance with Machine Learning | Playing Techniques
+ 2020 | Playing Technique Recognition by Joint Time–Frequency Scattering | Playing Techniques
+ 2019 | Musical Instrument Playing Technique Detection Based on FCN: Using Chinese Bowed-Stringed Instrument as an Example | Playing Techniques
+ 2019 | HMM-Based Glissando Detection For Recordings of Chinese Bamboo Flute | Playing Techniques
  2017 | Chinese Folk Music Composition based on Genetic Algorithm | Automatic Music Composition
  2017 | A Collection of Music Scores For Corpus Based Jingju Singing Research | Music Dataset (scores) 
  2017 | Creating an A Cappella Singing Audio Dataset for Automatic Jingju Singing Evaluation Research | Music Dataset (audio) 
