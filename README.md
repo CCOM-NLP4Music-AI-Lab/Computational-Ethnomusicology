@@ -16,7 +16,7 @@ Papers List
 
 
 
-2011-2019 Proceedings of Conference of Folk Music Analysis (FMA) (Files of proceedings of 2015 and 2017 are too big to upload. 
+2012-2019 Proceedings of Conference of Folk Music Analysis (FMA) (Files of proceedings of 2015 and 2017 are too big to upload. 
 The download url: http://fma2015.sciencesconf.org and http://fma2018.mus.auth.gr
 
 
