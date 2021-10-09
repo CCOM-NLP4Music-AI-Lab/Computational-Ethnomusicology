@@ -49,6 +49,11 @@ Papers List-Chinese Music (Specialty)
  2012 | A Cross-cultural Study of Music Mood Percpetion between American and Chinese Listener | Music Psychology & MIR
  2010 | Similarity Measures for Chinese Pop Music Based on Low-Level Audio Signal Attributes | Music Similarity
  
- 
+-----
 Resources List
-to be continued
+-----
+
+ Name | URL | Notes 
+ :-----: | :-----: | :-----:
+ World & Traditional music | https://sounds.bl.uk/World-and-traditional-music | More than 90,000 selected music (without Chinese music) and only UK higher and further education institutions can get an access
+ Smithsonian Folkways Recordings | https://folkways.si.edu/folkways-recordings/smithsonian | More than 68,000 recordings (within Chinese music) and 
