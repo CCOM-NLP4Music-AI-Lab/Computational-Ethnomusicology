@@ -8,12 +8,13 @@ Papers List-General
  Published Time | Title | Notes 
  :-----: | :-----: | :-----:
  2007 | Computational Ethnomusicology | First Definition 
- 2010 | Exploring the symbiosis of Western and non-Western music: a study based on computational ethnomusicology and contemporary music composition | A paper collection
- 2013 | Computational Ethnomusicology: perspectives and challenges | Survey
- 2014 | Computational ethnomusicology: a music information retrieval perspective | Survey
- 2017 | A computational study on outliers in world music | /
+ 2010 | Exploring the Symbiosis of Western and Non-Western music: a Study based on Computational Ethnomusicology and Contemporary Music Composition | A paper collection
+ 2013 | Computational Ethnomusicology: Perspectives and Challenges | Survey
+ 2014 | Computational Ethnomusicology: a Music Information Retrieval Perspective | Survey
+ 2017 | A Computational Study on Outliers in World Music | /
  2017 | Computational Ethnomusicology for Exploring Trends in Trinidad Steelband Music Through History | /
- 2018 | A review of manual and computational approaches for the study of world music corpora | /
+ 2018 | A review of Manual and Computational Approaches for the Study of World Music Corpora | /
+ 2018 | Computational Analysis of World Music Corpora | /
  2019 | Automatic Segmentation of Ethnomusicological Field Recordings | /
 
 
