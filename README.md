@@ -65,3 +65,7 @@ Resources List
  AdoVoc Pro | https://zenodo.org/record/3383118#.YWKSVGJByUk | Monophonic and Polyphonic Audio Files of a Set of Common Flamenco Singing Vocal Resources
  FlaBase | https://www.upf.edu/web/mtg/flabase | JSON format and freely available for download. Contains information about 1,102 artists, 74 palos (flamenco genres), 2,860 albums, 13,311 tracks, and 771 Andalusian locations
  TONAS | https://www.upf.edu/web/mtg/tonas | 72 sung excerpts representative of three Flamenco A Cappella singing styles (Deblas, two variants of Martinete)
+ Cancionero Vasco | https://www.eusko-ikaskuntza.eus/en/documentary-collection/basque-songbook/ | Basque folk songs and dances (metadata, scores, MIDI)
+ Dutch Song Database | http://www.liederenbank.nl/index.php?lan=en | contains more than 180,000 songs in the Dutch and Flemish language, from the Middle Ages through the twentieth century
+ 
+ 
