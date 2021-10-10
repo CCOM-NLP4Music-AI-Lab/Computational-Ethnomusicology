@@ -55,5 +55,13 @@ Resources List
 
  Name | URL | Notes 
  :-----: | :-----: | :-----:
- World & Traditional music | https://sounds.bl.uk/World-and-traditional-music | More than 90,000 selected music (without Chinese music) and only UK higher and further education institutions can get an access
- Smithsonian Folkways Recordings | https://folkways.si.edu/folkways-recordings/smithsonian | More than 68,000 recordings (within Chinese music) and 
+ The British Library World & Traditional music | https://sounds.bl.uk/World-and-traditional-music | More than 90,000 selected music (without Chinese music) and only UK higher and further education institutions can get download
+ Smithsonian Folkways Recordings | https://folkways.si.edu/folkways-recordings/smithsonian | More than 68,000 recordings/albums (within Chinese music) and users can pay for download
+ The Alan Lomax Digital Archive | https://archive.culturalequity.org/collections | audio, image, videos with metadata (without Chinese music) and users cannot download
+ Sound archives of the CRNS | https://archives.crem-cnrs.fr/ | /
+ Spotify API | https://developer.spotify.com/ | /
+ Traditional monophonic world songs | https://zenodo.org/record/4941863#.YWGLlWJByUk | ISMIR2021-Agreement Among Human and Automated Transcription of Global Songs, 32 excerpts, half of the files are picked up from the Natural History of Song dataset, and the other half is from Global Jukebox audio files
+ CompMusic | https://compmusic.upf.edu/ | Hindustani (North India), Carnatic (South India), Turkish-makam (Turkey), Arab-Andalusian (Maghreb), and Beijing Opera (China)
+ AdoVoc Pro | https://zenodo.org/record/3383118#.YWKSVGJByUk | Monophonic and Polyphonic Audio Files of a Set of Common Flamenco Singing Vocal Resources
+ FlaBase | https://www.upf.edu/web/mtg/flabase | JSON format and freely available for download. Contains information about 1,102 artists, 74 palos (flamenco genres), 2,860 albums, 13,311 tracks, and 771 Andalusian locations
+ TONAS | https://www.upf.edu/web/mtg/tonas | 72 sung excerpts representative of three Flamenco A Cappella singing styles (Deblas, two variants of Martinete)
