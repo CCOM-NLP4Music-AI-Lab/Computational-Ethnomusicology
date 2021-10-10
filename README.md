@@ -67,5 +67,7 @@ Resources List
  TONAS | https://www.upf.edu/web/mtg/tonas | 72 sung excerpts representative of three Flamenco A Cappella singing styles (Deblas, two variants of Martinete)
  Cancionero Vasco | https://www.eusko-ikaskuntza.eus/en/documentary-collection/basque-songbook/ | Basque folk songs and dances (metadata, scores, MIDI)
  Dutch Song Database | http://www.liederenbank.nl/index.php?lan=en | contains more than 180,000 songs in the Dutch and Flemish language, from the Middle Ages through the twentieth century
+ Telemeta | http://telemeta.org/ | A free and open source collaborative multimedia asset management system (MAM) which introduces fast and secure methods to archive, backup, transcode, analyse, annotate and publish any digitalized video or audio file with extensive metadata
+ Tobar an Dualchais | https://www.tobarandualchais.co.uk/the-collections | The audio material available on this website comes from three major collections, namely: The School of Scottish Studies (University of Edinburgh); The National Trust for Scotland’s Canna Collection; and BBC Radio nan Gàidheal
  
  
