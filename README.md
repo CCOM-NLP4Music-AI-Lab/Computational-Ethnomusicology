@@ -71,3 +71,6 @@ Resources List
  Tobar an Dualchais | https://www.tobarandualchais.co.uk/the-collections | The audio material available on this website comes from three major collections, namely: The School of Scottish Studies (University of Edinburgh); The National Trust for Scotland’s Canna Collection; and BBC Radio nan Gàidheal
  Weimar Jazz Database | https://jazzomat.hfm-weimar.de/ | 456 samples, still updating
  Europeana Sounds | http://www.eusounds.eu/ | More than 600,000 audio items as well as more than 300,000 audio-related items
+ Bertso Doinutegia | https://bdb.bertsozale.eus/en/web/bilaketa/index?&fq[]=mota_facet:%22grabazioa%22 | 3206 Bertso Melodies, still updating
+ Centre of Arab and Mediterranean Music | http://cmam.tn/publications/en/Our-Publications.html | Need to request a permission to use it
+ 
