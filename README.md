@@ -70,4 +70,4 @@ Resources List
  Telemeta | http://telemeta.org/ | A free and open source collaborative multimedia asset management system (MAM) which introduces fast and secure methods to archive, backup, transcode, analyse, annotate and publish any digitalized video or audio file with extensive metadata
  Tobar an Dualchais | https://www.tobarandualchais.co.uk/the-collections | The audio material available on this website comes from three major collections, namely: The School of Scottish Studies (University of Edinburgh); The National Trust for Scotland’s Canna Collection; and BBC Radio nan Gàidheal
  Weimar Jazz Database | https://jazzomat.hfm-weimar.de/ | 456 samples, still updating
- 
+ Europeana Sounds | http://www.eusounds.eu/ | More than 600,000 audio items as well as more than 300,000 audio-related items
