@@ -52,6 +52,7 @@ Papers List-Chinese Music (Specialty)
 -----
 Resources List
 -----
+Data (MIDI/Audio/Score/Metadata) used in Computational Ethnomusicology
 
  Name | URL | Notes 
  :-----: | :-----: | :-----:
@@ -69,8 +70,13 @@ Resources List
  Dutch Song Database | http://www.liederenbank.nl/index.php?lan=en | contains more than 180,000 songs in the Dutch and Flemish language, from the Middle Ages through the twentieth century
  Telemeta | http://telemeta.org/ | A free and open source collaborative multimedia asset management system (MAM) which introduces fast and secure methods to archive, backup, transcode, analyse, annotate and publish any digitalized video or audio file with extensive metadata
  Tobar an Dualchais | https://www.tobarandualchais.co.uk/the-collections | The audio material available on this website comes from three major collections, namely: The School of Scottish Studies (University of Edinburgh); The National Trust for Scotland’s Canna Collection; and BBC Radio nan Gàidheal
- Weimar Jazz Database | https://jazzomat.hfm-weimar.de/ | 456 samples, still updating
+ Weimar Jazz Database | https://jazzomat.hfm-weimar.de/ | 456 jazz samples, still updating
  Europeana Sounds | http://www.eusounds.eu/ | More than 600,000 audio items as well as more than 300,000 audio-related items
  Bertso Doinutegia | https://bdb.bertsozale.eus/en/web/bilaketa/index?&fq[]=mota_facet:%22grabazioa%22 | 3206 Bertso Melodies, still updating
  Centre of Arab and Mediterranean Music | http://cmam.tn/publications/en/Our-Publications.html | Need to request a permission to use it
+ Village Music Project | https://www.village-music-project.org.uk/?page_id=84 | 5,638 Transcriptions of traditional social dance music of England
+ Beijing Opera Singing Voice Dataset | http://isophonics.net/SingingVoiceDataset | 70 original vocal recordings by 28 professional, semi-professional and amateur singers, and singing style is predominantly Chinese Opera but some recordings are Western Opera
+ The Sessions | https://thesession.org/ | More than 45,000 Sheet Music
+ Irish Traditional Music Archives | https://www.itma.ie/digital-library | Individual sound recordings, books, videos, manuscripts and images
+ Henrik Norbeck's ABC Tunes | http://www.norbeck.nu/abc/ | A free online tune book of mostly Irish and Swedish traditional music. Sheet music and lyrics for more than 3000 tunes in ABC format, collected over more than 25 years by Henrik Norbeck, Stockholm, Sweden
  
