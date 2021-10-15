@@ -55,7 +55,7 @@ Papers List-Chinese Music (Specialty)
 Resources List
 -----
 Data (MIDI/Audio/Score/Metadata) used in Computational Ethnomusicology
-
+Collected from Proceedings of Folk Music Analysis (2012-2019)
  Name | URL | Notes 
  :-----: | :-----: | :-----:
  The British Library World & Traditional music | https://sounds.bl.uk/World-and-traditional-music | More than 90,000 selected music (without Chinese music) and only UK higher and further education institutions can get download
