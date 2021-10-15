@@ -82,4 +82,10 @@ Data (MIDI/Audio/Score/Metadata) used in Computational Ethnomusicology
  Irish Traditional Music Archives | https://www.itma.ie/digital-library | Individual sound recordings, books, videos, manuscripts and images
  Henrik Norbeck's ABC Tunes | http://www.norbeck.nu/abc/ | A free online tune book of mostly Irish and Swedish traditional music. Sheet music and lyrics for more than 3000 tunes in ABC format, collected over more than 25 years by Henrik Norbeck, Stockholm, Sweden
  Georgian Chant Recordings | https://www.audiolabs-erlangen.de/resources/MIR/2017-GeorgianMusic-Erkomaishvili | 101 audio recordings of Georgain Chant with segment and F0 annotations
- ITM-Flute-Style6 | https://github.com/izzymaclachlan/datasets | 28 Irish traditional music recordings by each of 6 players (168 total) without accompaniment
+ ITM-Flute-99 and ITM-Flute-Style6 | https://github.com/izzymaclachlan/datasets | 99 solo traditional Irish flute tune recordings and 28 Irish traditional music recordings by each of 6 players (168 total) without accompaniment
+ Morris Dance Music | https://themorrisring.org/music | English folk dance usually accompanied by music
+ Cantus | https://cantus.uwaterloo.ca/ | A database of the Latin chants found in manuscripts and early printed books and avaliable to search for a chant by melody (use their Melody Search Tool)
+ Music Online: The Garland Encyclopedia of World Music | https://search.alexanderstreet.com/glnd | Africa, South America, North America, Southeast Asia, South Asia, East Asia, Middle East, Europe, and Oceania
+ Mama Lisa's World | https://www.mamalisa.com/ | Kid's music from all over the world (audio)
+ / | https://lazardb.gbv.de/search | / 
+ 
