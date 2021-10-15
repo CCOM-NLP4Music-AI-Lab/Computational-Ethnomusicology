@@ -17,7 +17,7 @@ Papers List-General
  2018 | Computational Analysis of World Music Corpora | /
  2019 | Automatic Segmentation of Ethnomusicological Field Recordings | /
  2021 | Agreement among Human and Automated Transcriptions of Global Songs | ISMIR 2021
- 2021 | The Global Jukebox: A Public Database of Performing Arts and Culture
+ 2021 | The Global Jukebox: A Public Database of Performing Arts and Culture | /
 
 
 
