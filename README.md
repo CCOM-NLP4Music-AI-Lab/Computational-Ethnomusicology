@@ -16,6 +16,8 @@ Papers List-General
  2018 | A review of Manual and Computational Approaches for the Study of World Music Corpora | /
  2018 | Computational Analysis of World Music Corpora | /
  2019 | Automatic Segmentation of Ethnomusicological Field Recordings | /
+ 2021 | Agreement among Human and Automated Transcriptions of Global Songs | ISMIR 2021
+ 2021 | 
 
 
 
@@ -79,4 +81,5 @@ Data (MIDI/Audio/Score/Metadata) used in Computational Ethnomusicology
  The Sessions | https://thesession.org/ | More than 45,000 Sheet Music
  Irish Traditional Music Archives | https://www.itma.ie/digital-library | Individual sound recordings, books, videos, manuscripts and images
  Henrik Norbeck's ABC Tunes | http://www.norbeck.nu/abc/ | A free online tune book of mostly Irish and Swedish traditional music. Sheet music and lyrics for more than 3000 tunes in ABC format, collected over more than 25 years by Henrik Norbeck, Stockholm, Sweden
-
+ Georgian Chant Recordings | https://www.audiolabs-erlangen.de/resources/MIR/2017-GeorgianMusic-Erkomaishvili | 101 audio recordings of Georgain Chant with segment and F0 annotations
+ ITM-Flute-Style6 | https://github.com/izzymaclachlan/datasets | 28 Irish traditional music recordings by each of 6 players (168 total) without accompaniment
